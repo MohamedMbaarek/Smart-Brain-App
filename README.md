@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Smart Brain Web App
+This web app was created using React.JS, Node.JS and Postgres it's basic functionality is the ability to detect faces in a given image by the user, using Clairifai's Machine Learning API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
